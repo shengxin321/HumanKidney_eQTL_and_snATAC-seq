@@ -1,1 +1,1 @@
-Here we show the code for eQTL(cf)s
+Here we show the codes for eQTL(cf)s
